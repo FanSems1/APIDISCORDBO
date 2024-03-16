@@ -1,0 +1,30 @@
+{
+  "name": "apidiscordbo",
+  "version": "1.0.6",
+  "description": "Discord API v10 wrapper for managing messages, channels, roles, and user interactions easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FanSems1/APIDISCORDBO.git"
+  },
+  "keywords": [
+    "discord",
+    "simple",
+    "api",
+    "wrapper",
+    "dc"
+  ],
+  "author": "Fansems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FanSems1/APIDISCORDBO/issues"
+  },
+  "homepage": "https://github.com/FanSems1/APIDISCORDBO#readme",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "winston": "^3.11.0"
+  }
+}
